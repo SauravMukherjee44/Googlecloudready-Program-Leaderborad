@@ -28,7 +28,7 @@ export default function Home() {
 			<div className="center">
 				<Typography variant="body2" color="textSecondary">
 					<a
-						href="https://github.com/wasimreja"
+						href="https://www.linkedin.com/in/sauravmukherjee44/"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
