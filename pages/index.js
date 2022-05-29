@@ -17,7 +17,7 @@ export default function Home() {
 				</footer>
 				<div className="center">
 					<Typography className="bolder" variant="h3" color="textPrimary">
-						GoogleCloudReady Facilitator Program Leaderboard
+						GoogleCloudReady Facilitator Program Progress Report
 					</Typography>
 					<Typography className="bolder" variant="h4" color="textSecondary">
 						Asansol Engineering College
